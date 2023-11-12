@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">P-A-Check</string>
+    <string name="price_amount_check">Price-Amount-Check</string>
+    <string name="logo_on_top">Logo on top</string>
+    <string name="product_1">Product 1</string>
+    <string name="price1">Price (€/$)</string>
+    <string name="amount1">Amount</string>
+    <string name="product_2">Product 2</string>
+    <string name="price2">Price (€/$)</string>
+    <string name="amount2">Amount</string>
+    <string name="how_much_are_you_saving_today">How much are you saving today?</string>
+    <string name="calculate">Calculate!</string>
+    <string name="reset">Reset</string>
+    <string name="amount_2">Amount 2</string>
+    <string name="amount_1">Amount 1</string>
+    <string name="price_2">Price 2</string>
+    <string name="price_1">Price 1</string>
+</resources>
